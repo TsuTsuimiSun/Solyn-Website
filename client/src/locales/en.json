@@ -1,0 +1,60 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "news": "News & Blog",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Advisory Excellence",
+    "subtitle": "Our mission is to provide expert guidance and innovative solutions that empower businesses to thrive in dynamic financial landscapes.",
+    "cta": "Get Started"
+  },
+  "services": {
+    "title": "Our Services",
+    "ma": {
+      "name": "M&A Services",
+      "description": "M&A Strategy Design, Financial Due Diligence, Target Screening & Transaction Process Management, Valuation Analysis & Deal Structuring, Equity Incentives & Management Retention, Post-Merger Integration"
+    },
+    "financial": {
+      "name": "Financial Services",
+      "description": "Financial Planning & Analysis, Financial Modeling & Valuation, Portfolio Company Reporting, Tax Compliance & Planning, Financial Organization & Internal Controls, Financial Process & System Automation"
+    },
+    "overseas": {
+      "name": "Overseas Landing Deployment Services",
+      "description": "Market Entry Strategy, Investment Structure & Compliance Planning, Legal & Compliant Entity Establishment, HR & Organizational Structuring, Finance & Tax Integration, Brand Localization & Supply Chain Setup"
+    },
+    "hr": {
+      "name": "People & HR Services",
+      "description": "Strategic Organizational Design, Performance Management, Targeted Recruitment, Talent Development & Succession Planning"
+    },
+    "it": {
+      "name": "IT & Automation Services",
+      "description": "Data Visualization & Intelligent Analytics, Data Governance & Integration Architecture, Financial Automation Solutions, AI-Powered Data Management Tools"
+    }
+  },
+  "news": {
+    "title": "Latest Financial Advisory Insights",
+    "readMore": "Read More"
+  },
+  "partners": {
+    "title": "Working With the Best Clients and Partners"
+  },
+  "about": {
+    "title": "About Us",
+    "content": "Solyn Advisory is a professional financial advisory and management consulting firm dedicated to providing expert consulting services in M&A, financial planning, international expansion, and human resources. Our team consists of experienced consultants with deep industry expertise and professional knowledge."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "phone": "+86 186 0166 5486",
+    "email": "sales@solynadvisory.com",
+    "address": "8th Floor, No.2 Beiyu Road, Shanghai, China"
+  },
+  "footer": {
+    "copyright": "© 2025 by Solyn Advisory Group",
+    "privacy": "Privacy Policy",
+    "accessibility": "Accessibility Statement",
+    "terms": "Terms & Conditions"
+  }
+}
